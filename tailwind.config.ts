@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        background: "var(--background)",
+        modal: "rgba(255, 255, 255, 0.35)",
         foreground: "var(--foreground)",
       },
     },
